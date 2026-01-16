@@ -8,3 +8,18 @@ Features
 2. Capable of identifying cracks, potholes, and other road anomalies.
 3. Incorporates Python libraries such as OpenCV, Winsound, and Tkinter for real-time recognition and user interface implementation.
 4. Trained on a comprehensive dataset of 5,718 images containing 9,410 defect instances.
+
+Installation
+
+1. Clone the repository:
+git clone <repository_url>
+2. Install the required Python libraries:
+pip install opencv-python winsound tk ultralytics
+3. Download the trained YOLOv8 model (if not included in the repo).
+
+Usage
+1. Run the Python program:
+
+python roadwatch.py
+
+2. The system will detect and highlight road anomalies in real-time through the interface.
