@@ -12,10 +12,14 @@ Features
 Installation
 
 1. Clone the repository:
+
 git clone <repository_url>
-2. Install the required Python libraries:
+
+3. Install the required Python libraries:
+
 pip install opencv-python winsound tk ultralytics
-3. Download the trained YOLOv8 model (if not included in the repo).
+
+4. Download the trained YOLOv8 model (if not included in the repo).
 
 Usage
 1. Run the Python program:
