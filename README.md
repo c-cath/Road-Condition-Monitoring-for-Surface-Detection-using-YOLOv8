@@ -28,7 +28,7 @@ python roadwatch.py
 
 2. The system will detect and highlight road anomalies in real-time through the interface.
 
-<img width="4000" height="400" alt="Screenshot 2025-01-09 183026" src="https://github.com/user-attachments/assets/8d864d6d-1c2b-4a7f-85a3-87ad67390b1c" />
+<img width="1000" height="700" alt="Screenshot 2025-01-09 183026" src="https://github.com/user-attachments/assets/8d864d6d-1c2b-4a7f-85a3-87ad67390b1c" />
 
 
 <img width="1102" height="732" alt="Screenshot 2025-01-09 203216" src="https://github.com/user-attachments/assets/f0744493-977c-49e6-b365-c985228c8237" />
